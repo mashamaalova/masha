@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc560da2-452f-4c0e-91ac-0e3a10b19810" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Project/src/KeywordAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/NegativeTextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/SpamAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/TextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project/src/TooLongTextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/out/production/Calculate/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate/out/production/Calculate/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculate/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Calculate/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testtest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Testtest/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22NkkIEmZw1o57y2yWIpFS8I6uU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="сom.javarush.test.Main" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="сom.javarush.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="сom.javarush.test.Test" />
+      <module name="IdeaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="сom.javarush.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc560da2-452f-4c0e-91ac-0e3a10b19810" name="Changes" comment="" />
+      <created>1639685574409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639685574409</updated>
+    </task>
+    <servers />
+  </component>
+</project>
