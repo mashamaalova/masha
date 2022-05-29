@@ -1,4 +1,4 @@
-package PP_1_1_3;
+package PP_1_1_3.src.main.java.jm.task.core.jdbc.service;
 
 import jm.task.core.jdbc.model.User;
 
